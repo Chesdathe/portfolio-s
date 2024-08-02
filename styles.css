@@ -151,6 +151,14 @@ h2 {
   margin-bottom: 16px;
 }
 
+.project-item:hover {
+  box-shadow: 3px 5px 0px #333;
+}
+
+.blog-item:hover {
+  box-shadow: 4px 6px 3px #333;
+}
+
 .blog-item .btn {
   align-self: flex-start;
   margin-top: 8px;
